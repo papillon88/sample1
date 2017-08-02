@@ -1,4 +1,4 @@
-package qwe.asd.sample1.model.repositories;
+package qwe.asd.sample1.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
