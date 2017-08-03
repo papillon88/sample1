@@ -1,4 +1,4 @@
-package qwe.asd.sample1.model;
+package qwe.asd.sample1.models;
 
 import javax.persistence.*;
 import java.util.HashSet;
